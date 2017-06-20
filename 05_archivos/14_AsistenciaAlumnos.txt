@@ -1,0 +1,5 @@
+Luis 00110
+Jorge 11110
+Carlos 00111
+Josefa 11111
+Marion 11011
