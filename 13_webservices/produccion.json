@@ -1,0 +1,842 @@
+{
+    "certificacion": 0,
+    "contribuyentes_sii": 401743,
+    "usuarios_registrados": 419,
+    "empresas_registradas": 62,
+    "documentos_emitidos": 56223,
+    "documentos_diarios": [
+        {
+            "dia": "2016-10-22",
+            "total": 231
+        },
+        {
+            "dia": "2016-10-23",
+            "total": 11
+        },
+        {
+            "dia": "2016-10-24",
+            "total": 537
+        },
+        {
+            "dia": "2016-10-25",
+            "total": 467
+        },
+        {
+            "dia": "2016-10-26",
+            "total": 526
+        },
+        {
+            "dia": "2016-10-27",
+            "total": 545
+        },
+        {
+            "dia": "2016-10-28",
+            "total": 556
+        },
+        {
+            "dia": "2016-10-29",
+            "total": 247
+        },
+        {
+            "dia": "2016-10-30",
+            "total": 56
+        },
+        {
+            "dia": "2016-10-31",
+            "total": 208
+        },
+        {
+            "dia": "2016-11-01",
+            "total": 85
+        },
+        {
+            "dia": "2016-11-02",
+            "total": 513
+        },
+        {
+            "dia": "2016-11-03",
+            "total": 507
+        },
+        {
+            "dia": "2016-11-04",
+            "total": 537
+        },
+        {
+            "dia": "2016-11-05",
+            "total": 192
+        },
+        {
+            "dia": "2016-11-06",
+            "total": 7
+        },
+        {
+            "dia": "2016-11-07",
+            "total": 1001
+        },
+        {
+            "dia": "2016-11-08",
+            "total": 899
+        },
+        {
+            "dia": "2016-11-09",
+            "total": 489
+        },
+        {
+            "dia": "2016-11-10",
+            "total": 473
+        },
+        {
+            "dia": "2016-11-11",
+            "total": 492
+        },
+        {
+            "dia": "2016-11-12",
+            "total": 190
+        },
+        {
+            "dia": "2016-11-13",
+            "total": 12
+        },
+        {
+            "dia": "2016-11-14",
+            "total": 2265
+        },
+        {
+            "dia": "2016-11-15",
+            "total": 513
+        },
+        {
+            "dia": "2016-11-16",
+            "total": 495
+        },
+        {
+            "dia": "2016-11-17",
+            "total": 585
+        },
+        {
+            "dia": "2016-11-18",
+            "total": 554
+        },
+        {
+            "dia": "2016-11-19",
+            "total": 267
+        },
+        {
+            "dia": "2016-11-20",
+            "total": 15
+        },
+        {
+            "dia": "2016-11-21",
+            "total": 525
+        },
+        {
+            "dia": "2016-11-22",
+            "total": 285
+        }
+    ],
+    "usuarios_mensuales": [
+        {
+            "mes": "2016-01",
+            "usuarios": 1
+        },
+        {
+            "mes": "2016-02",
+            "usuarios": 2
+        },
+        {
+            "mes": "2016-03",
+            "usuarios": 2
+        },
+        {
+            "mes": "2016-04",
+            "usuarios": 2
+        },
+        {
+            "mes": "2016-05",
+            "usuarios": 2
+        },
+        {
+            "mes": "2016-06",
+            "usuarios": 30
+        },
+        {
+            "mes": "2016-07",
+            "usuarios": 124
+        },
+        {
+            "mes": "2016-08",
+            "usuarios": 131
+        },
+        {
+            "mes": "2016-09",
+            "usuarios": 88
+        },
+        {
+            "mes": "2016-10",
+            "usuarios": 102
+        },
+        {
+            "mes": "2016-11",
+            "usuarios": 168
+        }
+    ],
+    "contribuyentes_activos": [
+        {
+            "rut": 76080528,
+            "razon_social": "ADMINISTRADORA DE HOTELES BELLAVISTA SPA",
+            "usuario": "prado",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Pablo Rado",
+            "emitidos": 269,
+            "recibidos": 73,
+            "total": 342,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76311070,
+            "razon_social": "AGRICOLA Y TRANSPORTES LOS CASTA\u00d1OS LIMITADA",
+            "usuario": "cvargas",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "C\u00e9sar Vargas Correa",
+            "emitidos": 22,
+            "recibidos": 75,
+            "total": 97,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76324187,
+            "razon_social": "BICILAB SpA",
+            "usuario": "jcs",
+            "grupos": [
+                "lce_plus",
+                "dte_plus"
+            ],
+            "nombre": "Jesus Casas S.",
+            "emitidos": 57,
+            "recibidos": 15,
+            "total": 72,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 96937710,
+            "razon_social": "CABANAQUINTA S A",
+            "usuario": "cormeno",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Cristian Orme\u00f1o Heredia",
+            "emitidos": 76,
+            "recibidos": 346,
+            "total": 422,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76412558,
+            "razon_social": "CANAL CERO SPA",
+            "usuario": "thecloudsales",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Arturo Parker",
+            "emitidos": 2757,
+            "recibidos": null,
+            "total": 2757,
+            "sobre_cuota": 2257
+        },
+        {
+            "rut": 77771710,
+            "razon_social": "COMERCIAL BLANCO LIMITADA",
+            "usuario": "gblanco",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Guillermo Blanco",
+            "emitidos": 49,
+            "recibidos": 65,
+            "total": 114,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76012817,
+            "razon_social": "COMERCIAL  E  INVERSIONES  EL PINTOR  LIMITADA",
+            "usuario": "lbarrera",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Liliana Barrera Ferreti",
+            "emitidos": 777,
+            "recibidos": 113,
+            "total": 890,
+            "sobre_cuota": 390
+        },
+        {
+            "rut": 77646260,
+            "razon_social": "COMERCIAL INMOBILIARIA Y TRASPORTES ROMERO CARO LTDA.",
+            "usuario": "molinoroca",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Molino Roca",
+            "emitidos": 94,
+            "recibidos": 75,
+            "total": 169,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76096477,
+            "razon_social": "COMERCIAL ONAK SYSTEMS LIMITADA",
+            "usuario": "onak",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Onak Systems",
+            "emitidos": 38,
+            "recibidos": 5,
+            "total": 43,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76085472,
+            "razon_social": "COMERCIAL Y SERVICIOS CHRISTIAN FIGUEROA MARTINEZ EIRL",
+            "usuario": "cfigueroa",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Christian Andr\u00e9s Figueroa Mart\u00ednez",
+            "emitidos": 95,
+            "recibidos": 17,
+            "total": 112,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 78410390,
+            "razon_social": "CRISTIAN KLAMMER BORGONO Y ASOCIADOS LTDA",
+            "usuario": "franciscoklammer",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Francisco Klammer",
+            "emitidos": 12,
+            "recibidos": 100,
+            "total": 112,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76524238,
+            "razon_social": "CRISTIAN KLAMMER DE FERARI OFICIO DISENO E.I.R.L",
+            "usuario": "cristianklammer",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Cristian Klammer",
+            "emitidos": 11,
+            "recibidos": 32,
+            "total": 43,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76492330,
+            "razon_social": "DESARROLLOS TURISTICOS DEL SUR LIMITADA",
+            "usuario": "sgaete",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Sebasti\u00e1n Gaete",
+            "emitidos": 3,
+            "recibidos": 28,
+            "total": 31,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 96538700,
+            "razon_social": "EMPRESA DE AGUA POTABLE EL COLORADO S A",
+            "usuario": "sii.eapec",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "El Colorado S.A.",
+            "emitidos": 4,
+            "recibidos": null,
+            "total": 4,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 5232117,
+            "razon_social": "ERNESTO SEGUNDO CORTEZ TASSOS",
+            "usuario": "patriciocortez",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Patricio Javier Cortez Lorca",
+            "emitidos": 43,
+            "recibidos": 24,
+            "total": 67,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76023857,
+            "razon_social": "FERRETERIA JOSE TAPIA AGUAYO E.I.R.L.",
+            "usuario": "distal_dte",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Jose Tapia Aguayo",
+            "emitidos": 659,
+            "recibidos": 88,
+            "total": 747,
+            "sobre_cuota": 247
+        },
+        {
+            "rut": 76234147,
+            "razon_social": "GONZALO ORTEGA RAMIREZ, COMPUTACION, INFORMATICA, PROGRAM, DISENO Y EL DESAR DE ASESOR Y CONSUL EIRL",
+            "usuario": "ironservers",
+            "grupos": [
+                "dte_plus",
+                "lce_plus"
+            ],
+            "nombre": "Gonzalo Antonio Ortega Ramirez",
+            "emitidos": 15,
+            "recibidos": 12,
+            "total": 27,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76194581,
+            "razon_social": "HOUSING HUBS SPA",
+            "usuario": "dbaeza",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Diego Baeza M.",
+            "emitidos": 1,
+            "recibidos": null,
+            "total": 1,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 53306375,
+            "razon_social": "IBARRA NAVARRETE JUAN CARLOS Y OTROS",
+            "usuario": "jcibarra",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Juan Carlos Ibarra Navarrete",
+            "emitidos": 314,
+            "recibidos": 14,
+            "total": 328,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76319805,
+            "razon_social": "IBARRA NAVARRETE Y COMPANIA LIMITADA",
+            "usuario": "jcibarra",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Juan Carlos Ibarra Navarrete",
+            "emitidos": 295,
+            "recibidos": 28,
+            "total": 323,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76072099,
+            "razon_social": "IMPRESIONES DIGITALES LIMITADA",
+            "usuario": "digitalcopy",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "DIGITALCOPY",
+            "emitidos": 233,
+            "recibidos": 4,
+            "total": 237,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76028116,
+            "razon_social": "INSUMOS MINEROS Y COMPANIA LIMITADA",
+            "usuario": "spr",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Claudio Marin",
+            "emitidos": 51,
+            "recibidos": null,
+            "total": 51,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 6366576,
+            "razon_social": "JACOB EDUARDO RABI ELTIT",
+            "usuario": "francisco",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Francisco",
+            "emitidos": 100,
+            "recibidos": 34,
+            "total": 134,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76391088,
+            "razon_social": "LA GUARDERIA SPA",
+            "usuario": "laguarderia",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "LA GUARDERIA SPA",
+            "emitidos": 37,
+            "recibidos": null,
+            "total": 37,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76884800,
+            "razon_social": "MAQUINARIAS TANNY NOGALES BELTRAN EIRL",
+            "usuario": "Tanny",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Tanny Nogales Beltran",
+            "emitidos": 45,
+            "recibidos": 13,
+            "total": 58,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 8376726,
+            "razon_social": "MARIA MAGDALENA MANRIQUEZ MONDACA",
+            "usuario": "mym",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "MARIA MAGDALENA MANRRIQUEZ",
+            "emitidos": 558,
+            "recibidos": 73,
+            "total": 631,
+            "sobre_cuota": 131
+        },
+        {
+            "rut": 76555807,
+            "razon_social": "PARAMENTO DESIGN SPA",
+            "usuario": "ymeersohn",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Yenny Meersohn Oyarzo",
+            "emitidos": 31,
+            "recibidos": 17,
+            "total": 48,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76614617,
+            "razon_social": "PRODUCTOS PARA EL CABELLO YAQUELIN DEL PILAR VALENZUELA CORDERO E.I.R.L.",
+            "usuario": "jessica",
+            "grupos": [],
+            "nombre": "Jessica Parraguez",
+            "emitidos": 2,
+            "recibidos": null,
+            "total": 2,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 99582100,
+            "razon_social": "PRODUCTOS PROGRESO S A",
+            "usuario": "alejandra",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Alejandra Mu\u00f1oz",
+            "emitidos": 138,
+            "recibidos": 46,
+            "total": 184,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 79584030,
+            "razon_social": "PROVEEDORA DE ARTICULOS DENTALES LTDA",
+            "usuario": "provident",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Victor Rios",
+            "emitidos": 286,
+            "recibidos": 20,
+            "total": 306,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 77748370,
+            "razon_social": "QUIROGA Y PARRA LIMITADA",
+            "usuario": "quirogayparraltda",
+            "grupos": [
+                "lce_plus",
+                "dte_plus"
+            ],
+            "nombre": "QUIROGA Y PARRA LTDA",
+            "emitidos": 5042,
+            "recibidos": 259,
+            "total": 5301,
+            "sobre_cuota": 4801
+        },
+        {
+            "rut": 77558400,
+            "razon_social": "RESORTES Y ESPIRALES DE ACERO LTDA",
+            "usuario": "spr",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Claudio Marin",
+            "emitidos": 324,
+            "recibidos": null,
+            "total": 324,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 79986610,
+            "razon_social": "RIOS Y RANZETTA COMPANIA LIMITADA",
+            "usuario": "jrios",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Jaime Rios",
+            "emitidos": 132,
+            "recibidos": 222,
+            "total": 354,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 18774177,
+            "razon_social": "ROBERT IGNACIO VALENCIA ZEPEDA",
+            "usuario": "rvalencia",
+            "grupos": [],
+            "nombre": "Robert Valencia Zepeda",
+            "emitidos": null,
+            "recibidos": 1,
+            "total": 1,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 6294952,
+            "razon_social": "SAMUEL ANTONIO CANCINO TORRES",
+            "usuario": "geisoncancino",
+            "grupos": [
+                "lce_plus",
+                "dte_plus"
+            ],
+            "nombre": "geison cancino",
+            "emitidos": 19,
+            "recibidos": 53,
+            "total": 72,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76192083,
+            "razon_social": "SASCO SpA",
+            "usuario": "delaf",
+            "grupos": [
+                "inventario_plus",
+                "lce_plus",
+                "dte_plus",
+                "rrhh_plus"
+            ],
+            "nombre": "Esteban De La Fuente Rubio",
+            "emitidos": 50,
+            "recibidos": 16,
+            "total": 66,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 9839329,
+            "razon_social": "SILVANA AIDA QUEZADA ROBLES",
+            "usuario": "silvana",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Silvana Quezada",
+            "emitidos": 425,
+            "recibidos": 48,
+            "total": 473,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 86913300,
+            "razon_social": "SOC AGRICOLA VALLES DEL SUR LIMITADA",
+            "usuario": "franciscoklammer",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Francisco Klammer",
+            "emitidos": null,
+            "recibidos": 20,
+            "total": 20,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 78361640,
+            "razon_social": "SOC DE CONTROL DE CALIDAD E INSPECCIONES LIMITADA",
+            "usuario": "atylab",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Laboratorio Atylab",
+            "emitidos": 235,
+            "recibidos": null,
+            "total": 235,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76038583,
+            "razon_social": "SOCIEDAD ALIMENTOS HABACUC LIMITADA",
+            "usuario": "mmella",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Mois\u00e9s Mella",
+            "emitidos": 12,
+            "recibidos": 69,
+            "total": 81,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76534685,
+            "razon_social": "SOCIEDAD DE ALIMENTOS COLCHAGUA LIMITADA",
+            "usuario": "mmella",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Mois\u00e9s Mella",
+            "emitidos": 10,
+            "recibidos": 165,
+            "total": 175,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76219995,
+            "razon_social": "SOCIEDAD DE ALIMENTOS VICTORIA LIMITADA",
+            "usuario": "mmella",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Mois\u00e9s Mella",
+            "emitidos": 4,
+            "recibidos": 121,
+            "total": 125,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 77920010,
+            "razon_social": "Sociedad de Inversiones y Servicios Villarrica Ltda.",
+            "usuario": "soinsev",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "PATRICIO ALEX CARRASCO NAMBRARD",
+            "emitidos": 168,
+            "recibidos": 38,
+            "total": 206,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76122421,
+            "razon_social": "SOCIEDAD DISTRIBUIDORA MAREXPRESS LIMITADA",
+            "usuario": "marexpress",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "MAREXPRESS",
+            "emitidos": 499,
+            "recibidos": 14,
+            "total": 513,
+            "sobre_cuota": 13
+        },
+        {
+            "rut": 76011962,
+            "razon_social": "SOCIEDAD SONIDOS LIMITADA",
+            "usuario": "gblanco",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Guillermo Blanco",
+            "emitidos": 24,
+            "recibidos": 31,
+            "total": 55,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76664286,
+            "razon_social": "Taller de Madera SpA",
+            "usuario": "delaf",
+            "grupos": [
+                "lce_plus",
+                "rrhh_plus",
+                "dte_plus",
+                "inventario_plus"
+            ],
+            "nombre": "Esteban De La Fuente Rubio",
+            "emitidos": null,
+            "recibidos": 6,
+            "total": 6,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 4746046,
+            "razon_social": "TERESA DE JESUS LOPEZ IRIARTE",
+            "usuario": "tlopez",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Teresa Lopez",
+            "emitidos": 33,
+            "recibidos": 105,
+            "total": 138,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76435761,
+            "razon_social": "TOOLTEK SPA",
+            "usuario": "gunther",
+            "grupos": [
+                "dte_plus"
+            ],
+            "nombre": "Gunther Viertel",
+            "emitidos": 225,
+            "recibidos": 39,
+            "total": 264,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 76664285,
+            "razon_social": "Turismo del Valle SpA",
+            "usuario": "delaf",
+            "grupos": [
+                "rrhh_plus",
+                "lce_plus",
+                "inventario_plus",
+                "dte_plus"
+            ],
+            "nombre": "Esteban De La Fuente Rubio",
+            "emitidos": null,
+            "recibidos": 1,
+            "total": 1,
+            "sobre_cuota": null
+        },
+        {
+            "rut": 11812503,
+            "razon_social": "YASNA PATRICIA ZAVALLA MORALES",
+            "usuario": "yzavalla",
+            "grupos": [],
+            "nombre": "Yasna Patricia Zavalla Morales",
+            "emitidos": 11,
+            "recibidos": 3,
+            "total": 14,
+            "sobre_cuota": null
+        }
+    ]
+}
